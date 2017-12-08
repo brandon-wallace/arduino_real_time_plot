@@ -1,6 +1,6 @@
 # arduino_real_time_plot
 
-**An Arduino Real-Time Plot**
+**An Arduino Real-Time Plot using Matplotlib**
 
 
 ![arduino_real_time_plot](/arduino_real_time_plot.jpg)
